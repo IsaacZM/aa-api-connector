@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "module": "esnext",
+    "module": "CommonJS" // esnext,
     "target": "es5",
     "lib": [
       "esnext",
